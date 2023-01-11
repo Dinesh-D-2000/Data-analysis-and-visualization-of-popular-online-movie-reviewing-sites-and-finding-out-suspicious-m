@@ -29,6 +29,6 @@ To prove <strong>Fandango</strong> is a suspicious movie reviewing site by analy
 <h2>Conclusion</h2><p><strong>Taken 3, which is reviewed as worst by all other sites is highly rated(4.5) in fandango .<br> This movie is rated 1.86 on an average by all other movie reviewers.This proves that <br>Fandango is a suspicious movie reviewing site.</strong></p>
  <p >
 <img src="https://user-images.githubusercontent.com/109975786/211799891-1ff26f9b-0e51-4b85-a901-c389c784ffeb.JPG" height=300px width=200px align="center">
-<img src="https://user-images.githubusercontent.com/109975786/211801190-93051f3a-686f-44de-a8e5-48511c74c71c.JPG" align="right">
+<img src="https://user-images.githubusercontent.com/109975786/211801190-93051f3a-686f-44de-a8e5-48511c74c71c.JPG" align="center">
 </p>
 
