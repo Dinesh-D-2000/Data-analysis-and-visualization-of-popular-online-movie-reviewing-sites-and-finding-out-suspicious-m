@@ -41,6 +41,8 @@ The figure shown below displays the top 10 worst movies reviewed by Fandango as 
 The visualizations clearly indicate that Fandango tends to rate all movies highly, typically within the range of 3 to 5 stars.
 <p align="center"><img src="https://user-images.githubusercontent.com/109975786/211799162-d85a2a31-465d-4876-a390-a0274f12aac4.JPG"></p>
 <p align="center"><img src="https://user-images.githubusercontent.com/109975786/211799243-79f79988-bd49-4be0-89b2-86b43dfe0cda.JPG"></p>
+<img src="https://user-images.githubusercontent.com/109975786/211799891-1ff26f9b-0e51-4b85-a901-c389c784ffeb.JPG" height=300px width=200px align="center">
+<img src="https://user-images.githubusercontent.com/109975786/211801190-93051f3a-686f-44de-a8e5-48511c74c71c.JPG" align="center">
 
 
 
