@@ -1,7 +1,7 @@
 
 # Scraping the Screen: Python's Pursuit of Truth in Movie Reviews
 
-Scraping the Screen is a data analysis and visualization project aimed at investigating the credibility of Fandango as a movie reviewing site. By scraping data from popular movie review sites such as Rotten Tomatoes, Metacritic, IMDB, and Fandango, this project aims to uncover any suspicious patterns in Fandango's ratings compared to other reputable sites.
+Scraping the Screen is a data analysis and visualization project aimed at investigating the credibility of Fandango as a movie reviewing site. By scraping 500+ moview data from popular movie review sites such as Rotten Tomatoes, Metacritic, IMDB, and Fandango, this project aims to uncover any suspicious patterns in Fandango's ratings compared to other reputable sites.
 
 ## Objective
 
