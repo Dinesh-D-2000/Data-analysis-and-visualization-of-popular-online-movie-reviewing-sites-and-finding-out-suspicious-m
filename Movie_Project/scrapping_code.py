@@ -5,7 +5,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from webdriver_manager.chrome import ChromeDriverManager
 
-# Set up Excel workbook
+# Set up Excel workbook wowe
 excel = openpyxl.Workbook()
 sheet = excel.active
 sheet.append(["Rank", "Name", "Year", "Rating"])
