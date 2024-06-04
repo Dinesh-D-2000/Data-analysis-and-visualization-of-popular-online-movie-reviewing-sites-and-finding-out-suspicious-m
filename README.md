@@ -7,7 +7,7 @@ Scraping the Screen is a data analysis and visualization project aimed at invest
 
 The objective of this project is to analyze and visualize historical data of movies and their ratings from various movie reviewing sites to determine if Fandango's ratings are significantly higher or biased compared to other sites.
 
-## Tools Used:
+## Tools Used
 
 - Numpy
 - Pandas
